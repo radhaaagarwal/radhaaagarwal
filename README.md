@@ -1,5 +1,5 @@
 # **Hello! I'm Radha Agarwal**  
-🎓 A Public Speaker, Part-Time Teacher, and B.Tech student in Computer Science, {Cloud Computing and Automation} at VIT Bhopal, expanding my programming skills while actively engaging in literature, MUNs and content writing.
+A Public Speaker, Part-Time Teacher, and B.Tech student in Computer Science, {Cloud Computing and Automation} at VIT Bhopal, expanding my programming skills while actively engaging in literature, MUNs and content writing. 
 ---
 
 ## **💻 Tech Stack:**  
